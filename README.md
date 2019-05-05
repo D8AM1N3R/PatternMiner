@@ -28,6 +28,6 @@ for item in ap_miner.kLengthSets[support][max_k]['items'].keys():
 ## Alogrithms to Add
 
 - [x] Apriori 
-- [ ] H-Mine
+- [ ] H-Miner
 - [ ] FPGrowth
 - [ ] ECLAT
